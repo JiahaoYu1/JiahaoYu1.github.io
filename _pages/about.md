@@ -14,23 +14,24 @@ I'm currently a third year student at John Abbott College studying computer scie
 
 ## Education
 
-** John Abbott College **
+**John Abbott College**
 > 2021-present (_Expect graduate 2024 May_)
+
 Third year student in a 3-year program for Computer Sciences Honour Roll Student (_for all semesters_)
 
-** Alexander Galt Regional High School **
+**Alexander Galt Regional High School**
 > 2018-2021
 
 
 ## Past Work Experience
 
-** Auberge du Grand Lac - Kitchen Staff **
+**Auberge du Grand Lac - Kitchen Staff**
 > Summer 2020
 Ensured smooth operations by working alongside other kitchen staff.
 
 ## Skills And Languages
 
-** Computer Languages **
+**Computer Languages**
 - C#; WPF
 - JavaScript; React; CSS; HTML; Java
 - SQL; SQLite
@@ -39,22 +40,22 @@ Ensured smooth operations by working alongside other kitchen staff.
 - Command Line
 - Python
 
-** Tools **
+**Tools**
 - Visual Studio; Visual Studio Code
 -  IntelliJ
 - Android Studio
 
-** Microsoft Office **
+**Microsoft Office**
 - Word
 - PowerPoint
 - Excel
 
-** Languages **
+**Languages**
 - English (fluent)
 - Mandarin Chinese (fluent)
 - French (conversational)
 
-** Personal Hobbies **
+**Personal Hobbies**
 - Front-end design
 - Application Development
 - Web Programming
