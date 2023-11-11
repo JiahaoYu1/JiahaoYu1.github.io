@@ -82,13 +82,12 @@ analytics:
 author:
   name             : "Jiahao (Kevin) Yu"
   avatar           : "profile.png"
-  bio              : "High achieving student dedicated to learning through practical experience, with a passion for innovation and problem-solving."
+  bio              : "John Abbott College"
   location         : "Sainte-Anne-de-Bellevue, QC, Canada"
   employer         :
   pubmed           : 
   googlescholar    : 
   email            : "kevinyjh7@gmail.com"
-  phone            : 819-919-7388
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/JiahaoYu1"
+  github           : "/JiahaoYu1"
   google_plus      :
   keybase          :
   instagram        :
