@@ -41,6 +41,6 @@ To get started with the Home Budget App, follow these steps:
 
 ## Link to GitHub Repo page
    ```
-   https://github.com/JiahaoYu1/HomeBudget-Null/tree/master
+   https://github.com/JiahaoYu1/HomeBudget-Null
    ```
 
