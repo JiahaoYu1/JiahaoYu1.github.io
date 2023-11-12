@@ -40,5 +40,5 @@ To get started with the Home Budget App, follow these steps:
   - This project is licensed under the MIT License.
 
 ## Link to GitHub Repo page
-   [GitHub Pages](https://github.com/JiahaoYu1/HomeBudget-Null)
+   [Click Me To Access Home Budget Repo](https://github.com/JiahaoYu1/HomeBudget-Null)
 
