@@ -47,5 +47,5 @@ To get started with the Game Organizer Website, follow these steps:
   - Special thanks to Seth and Griffin who have dedicated their time and effort to this project.
 
 ## Link to GitHub Repo page
-  [Front End](https://github.com/JiahaoYu1/ConsoleCrew_FinalProjFrontEnd)
-  [Back End](https://github.com/JiahaoYu1/ConsoleCrew_FinalProjBackEnd)
+  - [Front End](https://github.com/JiahaoYu1/ConsoleCrew_FinalProjFrontEnd)
+  - [Back End](https://github.com/JiahaoYu1/ConsoleCrew_FinalProjBackEnd)
