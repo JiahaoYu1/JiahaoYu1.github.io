@@ -1,7 +1,18 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Home Budget App"
+excerpt: "The Home Budget App is a user-friendly tool designed to help individuals manage and visualize their daily expenses."
+
+"<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+## Overview
+
+This app provides a simple and intuitive interface for users to track their spending, analyze patterns, and make informed financial decisions.
+
+## Features 
+
+- **Expense Tracking:** Log your daily expenses with details such as category, amount, and date.
+- **Budget Visualization:** Visualize your spending patterns through interactive charts and graphs.
+- **Category Management:** Customize spending categories to match your lifestyle and financial goals.
+- **Expense History:** View a detailed history of your expenses, providing insights into your financial habits.
