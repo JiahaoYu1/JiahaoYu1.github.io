@@ -9,51 +9,45 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Education
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+**John Abbott College**
+> 2021-present (_Expect graduate 2024 May_)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Third year student in a 3-year program for Computer Sciences Honour Roll Student (_for all semesters_)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**Alexander Galt Regional High School**
+> 2018-2021
+
+
+## Past Work Experience
+
+**Auberge du Grand Lac - Kitchen Staff**
+> Summer 2020
+Ensured smooth operations by working alongside other kitchen staff.
+
+## Skills And Languages
+
+**Computer Languages**
+- C#; WPF
+- JavaScript; React; CSS; HTML; Java
+- SQL; SQLite
+- Kotlin
+- Bash
+- Command Line
+- Python
+
+**Tools**
+- Visual Studio; Visual Studio Code
+-  IntelliJ
+- Android Studio
+
+**Microsoft Office**
+- Word
+- PowerPoint
+- Excel
+
+**Languages**
+- English (fluent)
+- Mandarin Chinese (fluent)
+- French (conversational)
