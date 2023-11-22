@@ -1,6 +1,6 @@
 ---
-title: "💵Home Budget App"
-excerpt: "The Home Budget App is a user-friendly tool designed to help individuals manage and visualize their daily expenses."
+title: "Home Budget App"
+excerpt: "💵The Home Budget App is a user-friendly tool designed to help individuals manage and visualize their daily expenses."
 image: "/images/500x300.png"
 collection: portfolio
 ---
