@@ -6,11 +6,11 @@ collection: portfolio
 ---
 
 
-## Overview
+## 🔎 Overview
 
-The Bomb Simulator is just a showcase project about all the coding techniques that I learnt in Programming 4, such as inheritance, interfaces, various data structures, etc. For this project, we will be simulating multiple bombs exploding on a 2D map, and how those explosions could potentially trigger other explosions.
+The Bomb Simulator is just a showcase project about all the coding techniques for java that I learnt in Programming 4, such as inheritance, interfaces, various data structures, etc. For this project, we will be simulating multiple bombs exploding on a 2D map, and how those explosions could potentially trigger other explosions.
 
-## Features
+## 🔬 Features
 
 | Entity                  |        Icon         |
 | ----------------------- | :-----------------: |
@@ -26,8 +26,8 @@ The Bomb Simulator is just a showcase project about all the coding techniques th
 | Indestructible wall     |        ⬛️         |
 | Fire                    |         🔥         |
 
-## Link to clone the project:
-```
-https://github.com/JAC-CS-Programming-4-W23/project-ian-JiahaoYu1.git
-```
+## 📸 Screenshots
+
+## 📑 Link to GitHub Repo page
+- [Bomb Simulator](https://github.com/JAC-CS-Programming-4-W23/project-ian-JiahaoYu1.git)
    
