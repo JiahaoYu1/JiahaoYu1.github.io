@@ -6,11 +6,11 @@ collection: portfolio
 ---
 
 
-## Overview
+## 🔎 Overview
 
 With a user-friendly interface, the website serves as a centralized hub for gamers to effortlessly organize, discover, and engage in various gaming events. Users can create and manage gaming sessions, tournaments, and leagues, streamlining the process of scheduling and coordinating gameplay. 
 
-## Featuers
+## 🔬 Features
 
 - **Event Organization:** User-friendly interface for creating, updating, and managing gaming sessions.
 - **User Authentication and Security:** Secure user authentication with MongoDB for usernames and passwords.
@@ -18,7 +18,9 @@ Input validation to ensure data integrity and prevent issues during user interac
 - **Sketchbook Feature:** For users to sketch their thoughts of their own games.
 - **RESTful APIs and Controllers:** Separate controllers for REST APIs to facilitate smooth navigation within the website. Clear endpoints for different sections of the website, such as users and projects.
 
-## Getting Started
+## 📸 Screenshots
+
+## 🔧 Getting Started
 To get started with the Game Organizer Website, follow these steps:
 
 1. **Clone the Repositories:**
@@ -43,9 +45,9 @@ To get started with the Game Organizer Website, follow these steps:
      npm run build
      ```
 
-## Contributers
+## 🧑‍💻 Contributers
   - Special thanks to Seth and Griffin who have dedicated their time and effort to this project.
 
-## Link to GitHub Repo page
+## 📑 Link to GitHub Repo page
   - [Front End](https://github.com/JiahaoYu1/ConsoleCrew_FinalProjFrontEnd)
   - [Back End](https://github.com/JiahaoYu1/ConsoleCrew_FinalProjBackEnd)
