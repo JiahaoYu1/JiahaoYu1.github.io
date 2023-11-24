@@ -1,6 +1,7 @@
 ---
 title: "🎮 Game Organizer Website"
-excerpt: "The game organizer website is a dynamic platform designed to enhance the gaming experience for enthusiasts and communities alike"
+excerpt: "The game organizer website is a dynamic platform designed to enhance the gaming experience for enthusiasts and communities alike <br/>
+<img src='../images/GameOrganizer1.png'>" 
 image: "/images/500x300.png"
 collection: portfolio
 ---
@@ -19,7 +20,7 @@ Input validation to ensure data integrity and prevent issues during user interac
 - **RESTful APIs and Controllers:** Separate controllers for REST APIs to facilitate smooth navigation within the website. Clear endpoints for different sections of the website, such as users and projects.
 
 ## 📸 Screenshots
-!(../images/GameOrganizer1.png)
+![GO](../images/GameOrganizer1.png)
 ![GameOrganizer3](../images/GameOrganizer3.png)
 ![GameOrganizer2](../images/GameOrganizer2.png)
 ![GameOrganizer4](../images/GameOrganizer4.png)
