@@ -23,7 +23,7 @@ Input validation to ensure data integrity and prevent issues during user interac
 ![GO1](/images/GameOrganizer1.png)
 ![G2](/images/GameOrganizer3.png)
 ![GO3](/images/GameOrganizer2.png)
-![GO4](/images/GameOrganize4.png)
+![GO4](/images/GameOrganizer4.png)
 ## 🔧 Getting Started
 To get started with the Game Organizer Website, follow these steps:
 
