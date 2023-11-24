@@ -18,6 +18,8 @@ This app provides a simple and intuitive interface for users to track their spen
 
 ## 📸 Screenshots
 ![HomeBudget1](../images/HomeBudget1.png)
+
+![HomeBudget2](../images/HomeBudget2.png)
 ## 🔧 Getting Started
 
 To get started with the Home Budget App, follow these steps:
