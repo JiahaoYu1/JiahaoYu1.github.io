@@ -20,11 +20,10 @@ Input validation to ensure data integrity and prevent issues during user interac
 - **RESTful APIs and Controllers:** Separate controllers for REST APIs to facilitate smooth navigation within the website. Clear endpoints for different sections of the website, such as users and projects.
 
 ## 📸 Screenshots
-<img src='../images/GameOrganizer1.png'>{:width="300px"}
-<img src='../images/GameOrganizer3.png'>
-<img src='../images/GameOrganizer2.png'>
-<img src='../images/GameOrganizer4.png'>
-
+![GO1](/images/GameOrganizer1.png)
+![G2](/images/GameOrganizer3.png)
+![GO3](/images/GameOrganizer2.png)
+![GO4](/images/GameOrganize4.png)
 ## 🔧 Getting Started
 To get started with the Game Organizer Website, follow these steps:
 
