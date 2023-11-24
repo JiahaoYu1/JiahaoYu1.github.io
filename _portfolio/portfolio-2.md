@@ -19,7 +19,7 @@ Input validation to ensure data integrity and prevent issues during user interac
 - **RESTful APIs and Controllers:** Separate controllers for REST APIs to facilitate smooth navigation within the website. Clear endpoints for different sections of the website, such as users and projects.
 
 ## 📸 Screenshots
-![GameOrganizer1](../images/GameOrganizer1.png)
+!(../images/GameOrganizer1.png)
 ![GameOrganizer3](../images/GameOrganizer3.png)
 ![GameOrganizer2](../images/GameOrganizer2.png)
 ![GameOrganizer4](../images/GameOrganizer4.png)
