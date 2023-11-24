@@ -17,7 +17,7 @@ This app provides a simple and intuitive interface for users to track their spen
 - **Expense History:** View a detailed history of your expenses, providing insights into your financial habits.
 
 ## 📸 Screenshots
-
+!(images/HomeBudget1.png)
 ## 🔧 Getting Started
 
 To get started with the Home Budget App, follow these steps:
