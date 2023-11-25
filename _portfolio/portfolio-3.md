@@ -27,7 +27,7 @@ The Bomb Simulator is just a showcase project about all the coding techniques fo
 | Fire                    |         🔥         |
 
 ## 📸 Screenshots
-![B](/images/Bomb1.pn)
+![B](/images/Bomb1.png)
 
 ## 📑 Link to GitHub Repo page
 - [Bomb Simulator](https://github.com/JAC-CS-Programming-4-W23/project-ian-JiahaoYu1.git)
