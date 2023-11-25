@@ -1,5 +1,5 @@
 ---
-title: "Quiz Maker"
+title: "💡 Quiz Maker"
 excerpt: "Create a little quiz app that can read a file, generate and play quizzes <br/>
 <img src='../images/QuizMaker1.png'>"
 image: "/images/500x300.png"
