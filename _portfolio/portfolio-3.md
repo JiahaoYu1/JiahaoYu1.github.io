@@ -1,6 +1,6 @@
 ---
 title: "💣 Bomb Simulator"
-excerpt: "Create A 2D bomb simulation by combining several of the topics learned in Programming 4 such as inheritance, interfaces, various data structures, etc."
+excerpt: "Create A 2D bomb simulation by combining several of the topics learned in Programming 4 such as inheritance, interfaces, various data structures, etc. <br/> <img src='../images/Bomb1.png'>"
 image: "/images/500x300.png"
 collection: portfolio
 ---
