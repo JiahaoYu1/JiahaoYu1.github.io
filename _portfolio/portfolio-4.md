@@ -19,6 +19,9 @@ This is also the first application to be made in WPF as a team
 ![QM](/images/QuizMaker1.png)
 ![QM](/images/QuizMaker2.png)
 
+## 🧑‍💻 Contributers
+  - Special thanks to Yensan who have dedicated their time and effort to this project.
+
 ## 📑 Link to GitHub Repo page
 - [Quiz Maker](https://github.com/JiahaoYu1/Quiz_Maker)
    
